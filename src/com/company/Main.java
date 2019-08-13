@@ -5,5 +5,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         String name = scanner.next();
         System.out.println("Privet" + name);
+        }
     }
-    }
+
