@@ -25,7 +25,14 @@ public class Main {
         for (int i : a) {
             System.out.println(i);
             System.out.print(i);
+        }nt i : a) {
+            System.out.println(i);
+            System.out.print(i);
         }
     }
-}
+}nt i : a) {
+        System.out.println(i);
+        System.out.print(i);
+        }
+
 
